@@ -1,0 +1,4 @@
+Day 1 revenue: 850
+Day 2 revenue: 2000
+Day 3 revenue: 3300
+Total Revenue: 6150

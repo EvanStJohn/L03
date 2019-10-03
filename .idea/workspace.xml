@@ -23,13 +23,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/L03" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RcmXMSHxC83tGTgu9Wrr1njMoj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../L02" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +63,9 @@
       <updated>1569974796078</updated>
       <workItem from="1569974797193" duration="60000" />
       <workItem from="1569974858159" duration="1192000" />
-      <workItem from="1570122843580" duration="2338000" />
+      <workItem from="1570122843580" duration="2741000" />
+      <workItem from="1570125886083" duration="606000" />
+      <workItem from="1570141703972" duration="2204000" />
     </task>
     <servers />
   </component>
@@ -74,10 +77,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/L03" />
+    </ignored-roots>
   </component>
 </project>
